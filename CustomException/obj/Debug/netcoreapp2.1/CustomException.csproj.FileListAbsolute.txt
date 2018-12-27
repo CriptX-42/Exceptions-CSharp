@@ -1,0 +1,11 @@
+C:\Git\CSharp\Exceptions\CustomException\bin\Debug\netcoreapp2.1\CustomException.deps.json
+C:\Git\CSharp\Exceptions\CustomException\bin\Debug\netcoreapp2.1\CustomException.runtimeconfig.json
+C:\Git\CSharp\Exceptions\CustomException\bin\Debug\netcoreapp2.1\CustomException.runtimeconfig.dev.json
+C:\Git\CSharp\Exceptions\CustomException\bin\Debug\netcoreapp2.1\CustomException.dll
+C:\Git\CSharp\Exceptions\CustomException\bin\Debug\netcoreapp2.1\CustomException.pdb
+C:\Git\CSharp\Exceptions\CustomException\obj\Debug\netcoreapp2.1\CustomException.csprojAssemblyReference.cache
+C:\Git\CSharp\Exceptions\CustomException\obj\Debug\netcoreapp2.1\CustomException.csproj.CoreCompileInputs.cache
+C:\Git\CSharp\Exceptions\CustomException\obj\Debug\netcoreapp2.1\CustomException.AssemblyInfoInputs.cache
+C:\Git\CSharp\Exceptions\CustomException\obj\Debug\netcoreapp2.1\CustomException.AssemblyInfo.cs
+C:\Git\CSharp\Exceptions\CustomException\obj\Debug\netcoreapp2.1\CustomException.dll
+C:\Git\CSharp\Exceptions\CustomException\obj\Debug\netcoreapp2.1\CustomException.pdb
