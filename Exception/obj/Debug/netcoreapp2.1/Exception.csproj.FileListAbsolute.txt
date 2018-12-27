@@ -1,0 +1,11 @@
+C:\Git\CSharp\Exceptions\Exception\bin\Debug\netcoreapp2.1\Exception.deps.json
+C:\Git\CSharp\Exceptions\Exception\bin\Debug\netcoreapp2.1\Exception.runtimeconfig.json
+C:\Git\CSharp\Exceptions\Exception\bin\Debug\netcoreapp2.1\Exception.runtimeconfig.dev.json
+C:\Git\CSharp\Exceptions\Exception\bin\Debug\netcoreapp2.1\Exception.dll
+C:\Git\CSharp\Exceptions\Exception\bin\Debug\netcoreapp2.1\Exception.pdb
+C:\Git\CSharp\Exceptions\Exception\obj\Debug\netcoreapp2.1\Exception.csprojAssemblyReference.cache
+C:\Git\CSharp\Exceptions\Exception\obj\Debug\netcoreapp2.1\Exception.csproj.CoreCompileInputs.cache
+C:\Git\CSharp\Exceptions\Exception\obj\Debug\netcoreapp2.1\Exception.AssemblyInfoInputs.cache
+C:\Git\CSharp\Exceptions\Exception\obj\Debug\netcoreapp2.1\Exception.AssemblyInfo.cs
+C:\Git\CSharp\Exceptions\Exception\obj\Debug\netcoreapp2.1\Exception.dll
+C:\Git\CSharp\Exceptions\Exception\obj\Debug\netcoreapp2.1\Exception.pdb
